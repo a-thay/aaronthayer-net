@@ -59,33 +59,24 @@ plugins:
 
 author:
   name   : "Aaron Thayer"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Yo! I'm Aaron. A technical writer based in Portland, Oregon."
+  avatar : "/assets/images/Aaron-Headshot-New.png"
+  bio    : "PDX :heart:"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/aaronthayer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/a-thay"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/aaronthayer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/a-thay"
 
 defaults:
   # _posts
