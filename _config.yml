@@ -17,7 +17,7 @@ title: Aaron Thayer
 email: aaron@aaronthayer.net
 description: >- # this means to ignore newlines until "baseurl:"
  A portfolio and blog haphazardly designed with Jekyll.
-baseurl: /home
+baseurl:
 url: https://aaronthayer.net
 twitter_username: aaronthayer
 github_username: a-thay
@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.16.2"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
