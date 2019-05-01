@@ -26,7 +26,6 @@ github_username: a-thay
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.2"
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
 
 # Exclude from processing.
