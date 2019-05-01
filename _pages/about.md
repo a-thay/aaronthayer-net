@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Thanks for stopping by!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm a graduate of the University of Oregon's School of Journalism and Communication, where I earned a degree in Magazine Journalism and minored in History. Later, I graduated from Portland State University with a Master of Science in Professional and Technical Writing.
+
+I've cobbled together a technical writing career by working across industries including tech startups like ZOOM+Care and established multinational companies such as Smarsh and Convergys. I've also worked with non-profits like National Novel Writing Month and Right 2 Health.
+
+As a lifelong Oregonian, and a married man with a mortgage, I'm usually in bed by 9PM these days.
+
+If you like my work, be sure to check out my decade-strong (!) games blog, [Silicon Sasquatch](https://siliconsasquatch.com).

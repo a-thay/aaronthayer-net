@@ -5,6 +5,8 @@ categories:
     - blog
 tags:
     - hello
+    - jekyll
+    - tech writing
 ---
 Welcome!
 
