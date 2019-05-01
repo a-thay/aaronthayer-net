@@ -1,9 +1,10 @@
 ---
-layout: post
 title:  "Why hello there!"
 date:   2018-09-14 9:00:00 -0800
-categories: blog
-author: "Aaron"
+categories:
+    - blog
+tags:
+    - hello
 ---
 Welcome!
 
