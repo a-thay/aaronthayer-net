@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  A portfolio and blog haphazardly designed with Jekyll.
 baseurl: /home
 url: https://aaronthayer.net
-twitter_username: @aaronthayer
+twitter_username: aaronthayer
 github_username: a-thay
 minimal_mistakes_skin: default
 search: true
