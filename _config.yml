@@ -64,8 +64,11 @@ author:
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aaronthayer"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/a-thay"
 
 footer:
@@ -73,8 +76,11 @@ footer:
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aaronthayer"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/a-thay"
 
 defaults:
@@ -104,4 +110,3 @@ tag_archive:
   type: liquid
   path: /tags/
 teaser: /assets/images/sunset-trailer.jpg
-powered_by: false
