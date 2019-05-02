@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/a-thay"
     - label: "Silicon Sasquatch"
-      icon: "fas fa-external-link-alt"
+      icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
 
 footer:
@@ -81,7 +81,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/a-thay"
     - label: "Silicon Sasquatch"
-      icon: "fas fa-external-link-alt"
+      icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
 
 defaults:
