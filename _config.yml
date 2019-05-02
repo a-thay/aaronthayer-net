@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
  A PDX-based technical writer's portfolio and blog haphazardly designed with Jekyll.
 baseurl:
 url: https://aaronthayer.net
-twitter_username: aaronthayer
 github_username: a-thay
 minimal_mistakes_skin: default
 search: true
@@ -62,27 +61,21 @@ author:
   avatar : "/assets/images/aaron-pop.png"
   bio    : "PDX :heart:"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aaronthayer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/a-thay"
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/a-thay"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aaronthayer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/a-thay"
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
       url: "https://siliconsasquatch.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/a-thay"
 
 defaults:
   # _posts
