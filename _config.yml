@@ -16,7 +16,7 @@
 title: Aaron Thayer | Technical Writer
 email: aaron@aaronthayer.net
 description: >- # this means to ignore newlines until "baseurl:"
- A portfolio and blog haphazardly designed with Jekyll.
+ A PDX-based technical writer's portfolio and blog haphazardly designed with Jekyll.
 baseurl:
 url: https://aaronthayer.net
 twitter_username: aaronthayer
@@ -31,7 +31,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.2"
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles
 
 include:
   - _pages
@@ -104,3 +104,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+teaser: /assets/images/sunset-trailer.jpg
