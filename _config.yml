@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aaron Thayer | Technical Writer
+title: Aaron Thayer
 email: aaron@aaronthayer.net
 description: >- # this means to ignore newlines until "baseurl:"
  A PDX-based technical writer's portfolio and blog haphazardly designed with Jekyll.
 baseurl:
 url: https://aaronthayer.net
 github_username: a-thay
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
