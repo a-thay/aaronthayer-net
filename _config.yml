@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Aaron Thayer"
   avatar : "/assets/images/aaron-pop.png"
-  bio    : "PDX :heart:"
+  bio    : "Technical writer @ Smarsh. PDX :heart:"
   links:
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
