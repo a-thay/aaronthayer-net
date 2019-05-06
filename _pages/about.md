@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "My sordid history and minor accomplishments"
+excerpt: "My sordid history."
+layout: single
 author_profile: true
 ---
 
