@@ -110,3 +110,4 @@ tag_archive:
   type: liquid
   path: /tags/
 teaser: /assets/images/sunset-trailer.jpg
+excerpt_separator: <!--more-->
