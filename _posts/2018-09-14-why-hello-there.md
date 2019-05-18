@@ -12,6 +12,8 @@ Welcome!
 
 This is the first post of my redesigned site.
 
+<!--more-->
+
 It's been quite an ordeal, but a rewarding one!
 
 How did I get here? Well, I had to ask myself a lot of questions. The answers to which I can now provide...myself.
