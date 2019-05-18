@@ -1,5 +1,5 @@
 ---
-title:  "Preparing for Write the Docs 2019"
+title:  "Preparing for Write the Docs PDX 2019"
 date:   2019-05-18 7:44:00 -0800
 categories:
     - blog
