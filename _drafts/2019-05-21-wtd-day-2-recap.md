@@ -20,4 +20,6 @@ Text.
 ### Day 2 Recap
 -
 
+If you're at all interested in WTD but couldn't attend, I recommend checking out its [YouTube channel](https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ). The amazing team has pushed all the talks from the last two days, and there are previous years' talks available, too!
+
 Reminder: all my WTD notes can be grabbed from my [WTD-2019 repo](https://github.com/a-thay/WTD-2019) on GitHub.
