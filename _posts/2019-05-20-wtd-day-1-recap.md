@@ -7,11 +7,11 @@ tags:
     - WTD 2019
     - tech writing
 ---
-{% include figure image_path="/assets/images/wtd-pdx-2019-group.jpg" alt="The WTD PDX 2019 crew" caption="WTD PDX 2019. Image courtesy Write the Docs https://flic.kr/p/2fTHLiN" %}
-
 What a whirlwind first day!
 
 <!--more-->
+
+{% include figure image_path="/assets/images/wtd-pdx-2019-group.jpg" alt="The WTD PDX 2019 crew" caption="WTD PDX 2019. Image courtesy Write the Docs https://flic.kr/p/2fTHLiN" %}
 
 I mentioned in my [previous post]({% link _posts/2019-05-18-preparing-for-WTD-2019.md %}), this is my inaugural [Write the Docs](https://www.writethedocs.org/conf/portland/2019/) conference. The last ~12 hours have been a blast, and I'm ready for day two tomorrow.
 
