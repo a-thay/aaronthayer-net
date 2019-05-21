@@ -11,6 +11,8 @@ tags:
 
 What a whirlwind first day!
 
+<!--more-->
+
 I mentioned in my [previous post]({% link _posts/2019-05-18-preparing-for-WTD-2019.md %}), this is my inaugural [Write the Docs](https://www.writethedocs.org/conf/portland/2019/) conference. The last ~12 hours have been a blast, and I'm ready for day two tomorrow.
 
 Below is my brief recap. I have a lot more to process, but the following points came to mind as I mull everything over at home.
