@@ -17,7 +17,7 @@ I mentioned in my [previous post]({% link _posts/2019-05-18-preparing-for-WTD-20
 
 Below is my brief recap. I have a lot more to process, but the following points came to mind as I mull everything over at home.
 
-### Day 1 Recap
+# Day 1 Recap
 - **We're all in it together.** Everyone at WTD struggles with: analytics, delivering AND soliciting feedback, knowing the end user, writing without complexity, and content siloing.
 - **Exceptional conference scheduling.** WTD does a very good job of keeping the schedule moving and on-time. We started and ended according to schedule.
 - **Effortless networking? It can happen to you!** Sitting at a "round table" is the best way to network without feeling like it's a burden. I got to know almost everyone at my table, and we sat together the entire day. Now the trick is keeping in touch with these colleagues in the WTD Slack and/or LinkedIn.
