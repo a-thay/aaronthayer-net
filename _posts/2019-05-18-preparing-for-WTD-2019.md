@@ -6,6 +6,7 @@ categories:
 tags:
     - WTD 2019
     - tech writing
+classes: wide
 ---
 The annual [Write the Docs PDX](https://www.writethedocs.org/conf/portland/2019/) conference begins this Sunday. I’m beyond excited!
 

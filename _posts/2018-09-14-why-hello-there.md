@@ -7,6 +7,7 @@ tags:
     - hello
     - jekyll
     - tech writing
+classes: wide
 ---
 Welcome!
 

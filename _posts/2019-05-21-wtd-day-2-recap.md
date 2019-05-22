@@ -6,6 +6,7 @@ categories:
 tags:
     - WTD 2019
     - tech writing
+classes: wide
 ---
 I couldn't be happier that my first professional conference was [Write the Docs](https://www.writethedocs.org/conf/portland/2019/).
 
@@ -13,7 +14,7 @@ I couldn't be happier that my first professional conference was [Write the Docs]
 
 {% include figure image_path="/assets/images/wtd-header-swag.jpg" alt="WTD PDX 2019 swag!" caption="Sweet, sweet swag. Image courtesy Write the Docs: https://flic.kr/p/25kBkHv" %}
 
-*Catch up on Day 1 in my [previous recap]({% link _posts/2019-05-20-wtd-day-1-recap.md %})*
+*Catch up on Day 1 in my [previous recap]({% link _posts/2019-05-20-wtd-day-1-recap.md %}).*
 
 A big thank you to the WTD organizers and presenters. Everyone cares so much about documentation, which is still a welcome shock. I can't wait to come back in 2020.
 
