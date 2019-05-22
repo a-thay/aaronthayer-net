@@ -4,6 +4,7 @@ title: "About"
 excerpt: "My sordid history."
 layout: single
 author_profile: true
+classes: wide
 ---
 
 Yo! I'm Aaron. Thanks for stopping by.
