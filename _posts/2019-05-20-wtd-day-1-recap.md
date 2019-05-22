@@ -6,6 +6,7 @@ categories:
 tags:
     - WTD 2019
     - tech writing
+classes: wide
 ---
 What a whirlwind first day!
 
