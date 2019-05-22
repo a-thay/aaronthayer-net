@@ -1,6 +1,6 @@
 ---
 title:  "WTD PDX 2019 - Day 2 Recap"
-date:   2019-05-21 20:00:00 -0800
+date:   2019-05-21 19:00:00 -0800
 categories:
     - blog
 tags:
