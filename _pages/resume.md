@@ -2,7 +2,7 @@
 permalink: /resume/
 title: "Resume"
 excerpt: "Minor accomplishments!"
-layout: wide
+layout: single
 author_profile: true
 ---
 
