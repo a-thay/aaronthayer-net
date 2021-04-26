@@ -51,9 +51,11 @@ Collaboration
 
 Programming Languages
 :   **HTML:** The language I've used the most since creating webcomics on Angelfire pages in the early 2000s. Not a particularly flashy language anymore, but I can create a website from scratch even if it's not pretty.  
-:   **Markdown:** I know enough to post blogs using Jekyll and Ruby. I also author most content for personal and professional projects in Markdown. I often have to convert that content to plain text, but I prefer the syntax.  
-:   **Docs-as-Code:** I won't pretend I've mastered Ruby and gems, or Jekyll and YAML, but I've read enough blogs and tutorials to [create a personal site][ref] using both macOS terminal and Windows PowerShell. I comprehend, and professionally long for, an environment to implement or at least maintain a "DAC" toolchain. I want Netlify; I want Hugo; I want developers to make doc pull requests. I want to merge those pulls into the master repo while I watch a linter check syntax against the Microsoft Style Guide. I want to dabble in several languages to be just a little bit dangerous.  
 
+:   **Markdown:** I know enough to post blogs using Jekyll and Ruby. I also author most content for personal and professional projects in Markdown. I often have to convert that content to plain text, but I prefer the syntax.  
+
+:   **Docs-as-Code:** I won't pretend I've mastered Ruby and gems, or Jekyll and YAML, but I've read enough blogs and tutorials to [create a personal site][ref] using both macOS terminal and Windows PowerShell. I comprehend, and professionally long for, an environment to implement or at least maintain a "DAC" toolchain. I want Netlify; I want Hugo; I want developers to make doc pull requests. I want to merge those pulls into the master repo while I watch a linter check syntax against the Microsoft Style Guide. I want to dabble in several languages to be just a little bit dangerous.  
+  
 :   Basic knowledge of **CSS**, **XML**, **JQL/CQL**, **JSON**, **YAML**
 
 [ref]: https://github.com/a-thay
