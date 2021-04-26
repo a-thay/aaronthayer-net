@@ -112,3 +112,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+#Resume style attempt to add to config
+style: kjhealy
