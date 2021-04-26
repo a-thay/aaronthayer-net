@@ -5,7 +5,10 @@ excerpt: "Minor accomplishments!"
 layout: wide
 author_profile: true
 ---
-# Aaron Thayer
+
+Aaron Thayer
+===
+
 > Technical Writer in PDX
 -------------------
 
