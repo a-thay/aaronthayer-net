@@ -9,9 +9,11 @@ tags:
 classes: wide
 ---
 
-After a couple of eventful years away from my professional site and [Write the Docs PDX](https://www.writethedocs.org/conf/portland/2021/), I'm eager to get back to learning and sharing! I also have several bugs to squash in my Jekyll setup. (Whoops.)
+After a couple of eventful years away from my professional site and [Write the Docs PDX](https://www.writethedocs.org/conf/portland/2021/), I'm eager to get back to learning and sharing!
 
 <!--more-->
+
+I also have several security and vulnerability bugs to squash in my Jekyll setup. (Whoops.)
 
 A quick, personal post before the [main stage](https://www.writethedocs.org/conf/portland/2021/schedule/) opens up this morning.
 
