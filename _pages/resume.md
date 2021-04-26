@@ -2,16 +2,12 @@
 permalink: /resume/
 title: "Resume"
 excerpt: "Minor accomplishments!"
-layout: single
+layout: wide
 author_profile: true
 ---
-Aaron Thayer
-============
-
--------------------     ----------------------------
-PDX                     mailto:aaron@aaronthayer.net
-                                        @aaronthayer
--------------------     ----------------------------
+# Aaron Thayer
+> Technical Writer in PDX
+-------------------
 
 Education
 ---------
@@ -51,34 +47,20 @@ Skills
 --------------------
 
 Tool Expertise
-:   MadCap Flare, Confluence Cloud and Server, Jira, Trello, Adobe FrameMaker,
-    oXygen XML, Atom, GitHub, Visual Studio, Pandoc, Adobe Creative Suite,
-    Office Suite, Google Analytics, Power BI, Coveo.
+:   MadCap Flare, Confluence Cloud and Server, Jira, Trello,
+Adobe FrameMaker, oXygen XML, Atom, GitHub, Visual Studio, Pandoc, Adobe Creative Suite, Office Suite, Google Analytics, Power BI, Coveo.
 
 Collaboration
-    * Scrum/Agile collaborator; Nearly a decade of Scrum experience
-    * Editor with 15 years of experience guiding drafts to publication
-    * Managerial experience taught me to resolve conflicts and encourage
-      collaboration
+:   **Scrum/Agile collaborator**: Nearly a decade of Scrum experience; **Editor** with 15 years of experience guiding drafts to publication; **Managerial experience** taught me to resolve conflicts and encourage collaboration.
 
 Programming Languages
-:   **HTML:** The language I've used the most since creating webcomics on
-    Angelfire pages in the early 2000s. Not particularly flashy anymore,
-    but I can create a website from scratch, even if it's not particularly
-    pretty. (CSS is an ongoing education.)
+:   **HTML:** The language I've used the most since creating webcomics on Angelfire pages in the early 2000s. Not particularly flashy anymore, but I can create a website from scratch, even if it's not particularly pretty. (CSS is an ongoing education.)
 
-:   **Markdown:** I know enough to post blogs using Jekyll and Ruby. I also
-    author most content for personal and professional projects in Markdown.
-    I often have to convert that content to plain text, but I prefer the syntax.
 
-:   **Docs-as-Code:** I won't pretend I've mastered Ruby and gems, or Jekyll
-    and YAML, but I've read enough blogs and tutorials to [create a personal
-    site] [ref] using both macOS terminal and Windows PowerShell. I comprehend,
-    and professionally long for, an environment to implement or at least
-    maintain a "DAC" toolchain. I want Netlify; I want Hugo; I want developers
-    to make doc pull requests. I want to merge those pulls into the master repo
-    while I watch a linter check syntax against the Microsoft Style Guide.
-    I want to dabble in several languages to be just a little bit dangerous.
+:   **Markdown:** I know enough to post blogs using Jekyll and Ruby. I also author most content for personal and professional projects in Markdown. I often have to convert that content to plain text, but I prefer the syntax.
+
+
+:   **Docs-as-Code:** I won't pretend I've mastered Ruby and gems, or Jekyll and YAML, but I've read enough blogs and tutorials to [create a personal site][ref] using both macOS terminal and Windows PowerShell. I comprehend,and professionally long for, an environment to implement or at least maintain a "DAC" toolchain. I want Netlify; I want Hugo; I want developers to make doc pull requests. I want to merge those pulls into the master repo while I watch a linter check syntax against the Microsoft Style Guide. I want to dabble in several languages to be just a little bit dangerous.
 
 :   Basic knowledge of **CSS**, **XML**, **JQL/CQL**, **JSON**, **YAML**
 
