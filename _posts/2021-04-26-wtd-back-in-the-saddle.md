@@ -21,4 +21,7 @@ Despite my desire to, I skipped Sunday's Writing Day activities. I actually woul
 
 My excuse this year (having skipped the 2020 conference) comes down to: parent stuff. This year's WTD coincided with a long-planned drive south to the bay area to see the in-laws. My wife and I haven't been back since August 2019, a few months before our son was born. We're both (partially) vaccinated and have quarantined since the pandemic began. The grandparents are fully vaccinated and also make very few outings beyond necessities. We felt it was "safe enough," knowing we can't control or prevent all risk. We weighed that against our 1.5-year-old toddler not seeing family or the world more than two hours away. I understand those who wouldn't, or couldn't, make the same decision.
 
-That's the extent of my pre-recipe, life story blogger introduction. I'll be posting at the end of each main stage conference day with my impressions and thoughts on the day's talks. Looking forward to another jam-packed WTD PDX. Cheers!
+That's the extent of my pre-recipe, life story blogger introduction. I'll be posting after the end of each main stage conference day with my impressions and thoughts on the day's talks. Looking forward to another jam-packed WTD PDX. Cheers!
+
+**Update 4/28/21**
+- Here's a [link to my repo of raw conference notes](https://github.com/a-thay/WTD-2021), if you're so inclined. Thanks!

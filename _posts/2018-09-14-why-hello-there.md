@@ -28,7 +28,7 @@ __Q: How do I transfer my domain to a new registrar?__
 
 __Q: How (the hell) do I build a website from scratch these days?__
 - [Learn a new language](https://jekyllrb.com/)—especially one that [might help your technical writing career](https://idratherbewriting.com/2015/04/15/final-analysis-between-dita-and-jekyll/).
-- Download [Atom](https://atom.io/). Be fortunate enough to [have a patient colleague show you the ropes](http://www.brianryer.com/).
+- Download [Atom](https://atom.io/). Be fortunate enough to [have a patient colleague show you the ropes](http://https://www.linkedin.com/in/bkryer/).
 - Alternatively, [read the Atom Flight Manual](https://flight-manual.atom.io/).
 
 __Q: Cool stuff. But what the hell is Jekyll? What's a gem?__
