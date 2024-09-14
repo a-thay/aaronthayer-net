@@ -1,3 +1,14 @@
+---
+title:  "Tech Writing Best Practices"
+date:   2024-09-14 4:32:00 -0800
+categories:
+    - blog
+tags:
+    - 2024
+    - tips
+    - tech writing
+classes: wide
+---
 I've been combing through my old projects from my last gig, seeing which tibits of internal documentation I could clean up and share on my site for prospective employers and fellow tech writers alike.
 
 This piece is short, but sort of an essential manifesto I still use to guide the creation of content in my own work. It's borrowed from the work of the [always-illuminating Tom Johnson](https://idratherbewriting.com/) and a [presentation he gave on User-Centered Design](https://idratherbewriting.com/files/design-principles-for-organizing-docs/#/). The book referenced in Tom's slides is absolutely worth checking out on your own.
