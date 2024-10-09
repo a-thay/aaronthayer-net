@@ -1,6 +1,6 @@
 ---
 title:  "My Write the Docs Interview Circa 2019"
-date:   2024-10-09 10:52:00 -0800
+date:   2024-10-9 10:00:00 -0800
 categories:
     - blog
 tags:
