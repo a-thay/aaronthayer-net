@@ -4,7 +4,6 @@ date:   2024-10-9 10:00:00 -0800
 categories:
     - blog
 tags:
-    - 2024
     - wtd
     - tech writing
     - interview
