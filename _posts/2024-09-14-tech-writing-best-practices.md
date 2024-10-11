@@ -4,7 +4,7 @@ date:   2024-09-14 4:32:00 -0800
 categories:
     - blog
 tags:
-    - `2024`
+    - '2024'
     - tips
     - tech writing
 classes: wide
