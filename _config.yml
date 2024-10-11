@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aaron Thayer
+title: Technically, a Writer
+subtitle: A semi-professional blog by Aaron Thayer
 email: aaron@aaronthayer.net
 description: >- # this means to ignore newlines until "baseurl:"
  A PDX-based technical writer's portfolio and blog haphazardly designed with Jekyll.
@@ -24,10 +25,11 @@ minimal_mistakes_skin: dark
 search: true
 teaser: /assets/images/sunset-trailer.jpg
 excerpt_separator: <!--more-->
+logo: assets\images\Logo Basic 2024.png
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -62,7 +64,7 @@ plugins:
 author:
   name   : "Aaron Thayer"
   avatar : "/assets/images/aaron-pop.png"
-  bio    : "Technical writer looking for his next home. PDX :heart:"
+  bio    : "Technical writer simplifying complexity all day. PDX :heart:"
   links:
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
@@ -98,6 +100,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
