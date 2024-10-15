@@ -25,7 +25,7 @@ minimal_mistakes_skin: dark
 search: true
 teaser: /assets/images/sunset-trailer.jpg
 excerpt_separator: <!--more-->
-logo: /assets/images/mast-logo-basic.png
+logo: /assets/images/TAW-Logo_New.png
 
 # Build settings
 markdown: kramdown
@@ -63,8 +63,9 @@ plugins:
 
 author:
   name   : "Aaron Thayer"
-  avatar : "/assets/images/aaron-pop.png"
-  bio    : "Technical writer simplifying complexity all day. PDX :heart:"
+  avatar : "/assets/images/headshot-2024-cutout.png"
+  bio    : "Lifelong Oregonian usually in bed by 9pm."
+  location: "Portland, OR :heart:"
   links:
     - label: "Silicon Sasquatch"
       icon: "fas fa-external-link-square-alt"
@@ -75,6 +76,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/a-thay"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/aaronthayer.bsky.social"
 
 footer:
   links:
@@ -87,6 +91,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/a-thay"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/aaronthayer.bsky.social"
 
 defaults:
   # _posts
